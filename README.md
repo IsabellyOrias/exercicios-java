@@ -19,3 +19,4 @@ Versão: "1.8.0_441"
 5. Exercício 5 - Peça o preço de um produto e a quantidade comprada. Exiba o valor total, com duas casas decimais.
 6. Exercício 6 - Peça um número e informe se ele é par ou ímpar.
 7. Exercício 7 - Peça dois números e exiba qual é o maior. Se forem iguais, informe isso.
+8. Exercício 8 - Peça um número e informe se ele é positivo, negativo ou igual a zero.
