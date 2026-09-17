@@ -10,3 +10,6 @@ Exercícios realizados durante a sala de aula para treinarmos programação na l
 ## Tecnologia utilizada
 Linguagem: Java <br>
 Versão: "1.8.0_441"
+
+## Índice dos exercícios
+1. Exercício 1 - Crie duas variáveis com seu nome e sua idade. Exiba cada uma em uma linha.

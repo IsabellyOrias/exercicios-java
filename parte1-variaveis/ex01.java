@@ -3,5 +3,6 @@
         int age = 16;
         String name = "Isabelly";
 
-        Sys
+        System.out.println("Meu nome é " + name + "\nMinha idade: " + age + " anos");
         }
+    }
