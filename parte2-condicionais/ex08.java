@@ -13,6 +13,7 @@ public class ex08 {
         } else {
             System.out.println("O número é igual a zero");
         }
+        
         scanner.close();
     }
 }
