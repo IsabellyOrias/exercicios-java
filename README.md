@@ -22,3 +22,4 @@ Versão: "1.8.0_441"
 8. Exercício 8 - Peça um número e informe se ele é positivo, negativo ou igual a zero.
 9. Exercício 9 - Peça a média de um estudante e classifique: 6 ou mais é Aprovado; de 4 a 5,9 é Recuperação; abaixo de 4 é
 Reprovado.
+10 - Exercício 10 - Peça a idade de uma pessoa e informe se ela já pode votar. A idade mínima é 16 anos.
