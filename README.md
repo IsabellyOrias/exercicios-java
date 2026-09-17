@@ -15,3 +15,4 @@ Versão: "1.8.0_441"
 1. Exercício 1 - Crie duas variáveis com seu nome e sua idade. Exiba cada uma em uma linha.
 2. Exercício 2 - Peça dois números ao usuário e exiba a soma dos dois.
 3. Exercício 3 - Peça o raio de um círculo e calcule a área. Use 3.14159 como valor de pi.
+4. Exercício 4 - Peça uma temperatura em graus Celsius e converta para Fahrenheit. A fórmula é F = C × 9 / 5 + 32.
