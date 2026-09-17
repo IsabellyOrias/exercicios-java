@@ -20,3 +20,5 @@ Versão: "1.8.0_441"
 6. Exercício 6 - Peça um número e informe se ele é par ou ímpar.
 7. Exercício 7 - Peça dois números e exiba qual é o maior. Se forem iguais, informe isso.
 8. Exercício 8 - Peça um número e informe se ele é positivo, negativo ou igual a zero.
+9. Exercício 9 - Peça a média de um estudante e classifique: 6 ou mais é Aprovado; de 4 a 5,9 é Recuperação; abaixo de 4 é
+Reprovado.
