@@ -30,3 +30,4 @@ Reprovado.
 15. Exercício 15 - Peça números ao usuário até que ele digite 0. Ao final, informe quantos números positivos foram digitados.
 16. Exercício 16 - Exiba os números de 1 a 20, um por linha.
 17. Exercício 17 - Exiba apenas os números pares de 2 a 20.
+18. Exercício 18 - Calcule e exiba a soma de todos os números de 1 a 100.
