@@ -31,3 +31,4 @@ Reprovado.
 16. Exercício 16 - Exiba os números de 1 a 20, um por linha.
 17. Exercício 17 - Exiba apenas os números pares de 2 a 20.
 18. Exercício 18 - Calcule e exiba a soma de todos os números de 1 a 100.
+19. Exercício 19 - Peça um número e calcule seu fatorial. O fatorial de 5 é 5 × 4 × 3 × 2 × 1 = 120.
