@@ -32,3 +32,4 @@ Reprovado.
 17. Exercício 17 - Exiba apenas os números pares de 2 a 20.
 18. Exercício 18 - Calcule e exiba a soma de todos os números de 1 a 100.
 19. Exercício 19 - Peça um número e calcule seu fatorial. O fatorial de 5 é 5 × 4 × 3 × 2 × 1 = 120.
+20. Exercício 20 - Faça uma contagem regressiva de 10 até 1 e, ao final, exiba "Fim".
