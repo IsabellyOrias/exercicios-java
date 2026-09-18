@@ -26,3 +26,4 @@ Reprovado.
 11. Exercício 11 - Exiba os números de 1 a 10, um por linha.
 12. Exercício 12 - Peça números ao usuário e vá somando. Quando ele digitar 0, pare e exiba a soma.
 13. Exercício 13 - Peça uma senha ao usuário e continue pedindo até que ele digite senai123. Ao acertar, exiba "Acesso liberado".
+14. Exercício 14 - Peça um número e exiba sua tabuada de 1 a 10.
