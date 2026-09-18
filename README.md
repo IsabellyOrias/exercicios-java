@@ -25,3 +25,4 @@ Reprovado.
 10. Exercício 10 - Peça a idade de uma pessoa e informe se ela já pode votar. A idade mínima é 16 anos.
 11. Exercício 11 - Exiba os números de 1 a 10, um por linha.
 12. Exercício 12 - Peça números ao usuário e vá somando. Quando ele digitar 0, pare e exiba a soma.
+13. Exercício 13 - Peça uma senha ao usuário e continue pedindo até que ele digite senai123. Ao acertar, exiba "Acesso liberado".
