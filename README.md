@@ -35,3 +35,4 @@ Reprovado.
 20. Exercício 20 - Faça uma contagem regressiva de 10 até 1 e, ao final, exiba "Fim".
 21. Exercício 21 - Crie uma lista com cinco números à sua escolha e exiba cada um deles.
 22. Exercício 22 - Usando a lista do exercício anterior, calcule e exiba a soma de todos os itens.
+23. Exercício 23 - Usando a mesma lista, encontre e exiba o maior valor.
