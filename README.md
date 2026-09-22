@@ -36,3 +36,4 @@ Reprovado.
 21. Exercício 21 - Crie uma lista com cinco números à sua escolha e exiba cada um deles.
 22. Exercício 22 - Usando a lista do exercício anterior, calcule e exiba a soma de todos os itens.
 23. Exercício 23 - Usando a mesma lista, encontre e exiba o maior valor.
+24. Exercício 24 - Dada a lista [5, 12, 8, 20, 3, 15], informe quantos itens são maiores que 10. 
